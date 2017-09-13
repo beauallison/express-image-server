@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/beauallison/express-image-server#readme",
   "dependencies": {
+    "boom": "^5.2.0",
     "config": "^1.26.2",
     "express": "^4.15.4",
     "lodash": "^4.17.4",
+    "mongo-uri-builder": "^1.0.3",
     "mongodb": "^2.2.31"
   },
   "devDependencies": {
