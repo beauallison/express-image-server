@@ -1,0 +1,31 @@
+{
+  "name": "express-image-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beauallison/express-image-server.git"
+  },
+  "author": "Beau Allison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beauallison/express-image-server/issues"
+  },
+  "homepage": "https://github.com/beauallison/express-image-server#readme",
+  "dependencies": {
+    "config": "^1.26.2",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "jest": "^21.0.2"
+  }
+}
