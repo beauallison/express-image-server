@@ -1,0 +1,14 @@
+{
+  "server": {
+    "port": 8080,
+    "authentiation": {
+      "username": "admin",
+      "password": "password"
+    }
+  },
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "images"
+  }
+}
