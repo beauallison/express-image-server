@@ -1,9 +1,9 @@
 {
   "server": {
     "port": 8080,
-    "authentiation": {
-      "username": "admin",
-      "password": "password"
+    "authentication": {
+      "name": "admin",
+      "pass": "password"
     }
   },
   "mongo": {
