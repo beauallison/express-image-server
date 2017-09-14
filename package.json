@@ -23,7 +23,8 @@
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.17.4",
     "mongo-uri-builder": "^1.0.3",
-    "mongodb": "^2.2.31"
+    "mongodb": "^2.2.31",
+    "sharp": "^0.18.3"
   },
   "devDependencies": {
     "eslint": "^4.6.1",
